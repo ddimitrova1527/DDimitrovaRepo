@@ -1,0 +1,18 @@
+https://auth.shoplo.com/api/sumup/check-merchant-store?merchantCode=MERE73Z4
+
+GET method, за извличане на код на търговеца
+
+https://me.sumup.com/api/v0.2/me/merchant-profile
+GET method, за извличане на профила на търговеца
+
+https://me.sumup.com/api/v0.1/merchant-categories?country=BG
+GET method, за извличане на категория/държава
+
+https://me.sumup.com/api/v0.1/me/merchant-profile/settings
+GET method, за извличане на настройките
+
+https://me.sumup.com/api/v0.1/me/shipping-orders
+GET method, за извличане на поръчки за доставка
+
+https://me.sumup.com/api/v0.1/me/transactions/history?limit=1&order=descending
+GET method, за извличане на хистория на транзакциите
